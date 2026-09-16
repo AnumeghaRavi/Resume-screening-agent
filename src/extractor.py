@@ -18,9 +18,9 @@ import re
 DEFAULT_SKILL_VOCAB = [
     "python", "java", "javascript", "typescript", "c++", "c#", "go", "rust",
     "sql", "nosql", "postgresql", "mysql", "mongodb", "redis",
-    "django", "flask", "fastapi", "react", "node.js", "next.js",
+    "django", "flask", "fastapi", "react", "node.js", "next.js","json",
     "aws", "azure", "gcp", "docker", "kubernetes", "terraform", "ci/cd",
-    "git", "rest api", "graphql", "microservices",
+    "git", "rest api", "graphql", "microservices", "celery", "rabbitmq", 
     "pandas", "numpy", "scikit-learn", "pytorch", "tensorflow",
     "machine learning", "deep learning", "nlp", "data analysis",
     "agile", "scrum", "jira",
