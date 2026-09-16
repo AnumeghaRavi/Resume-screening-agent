@@ -1,0 +1,15 @@
+Alex Kim
+Computer Science Graduate
+
+Summary
+Recent graduate with academic experience in Python and web development.
+
+Skills
+Python, SQL, Flask, HTML, CSS, Git
+
+Projects
+- Built a personal blog application using Flask and SQLite
+- Coursework included data structures, algorithms, and databases
+
+Education
+Bachelor of Science (B.Sc) in Computer Science, University of Manchester, 2024

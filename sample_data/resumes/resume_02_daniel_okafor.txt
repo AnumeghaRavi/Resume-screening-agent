@@ -1,0 +1,20 @@
+Daniel Okafor
+Backend / Platform Engineer
+
+Summary
+6 years experience. Flask, Kubernetes, and cloud infrastructure specialist.
+
+Skills
+Python, Flask, SQL, Docker, Kubernetes, AWS, GCP, REST API, Redis, microservices
+
+Experience
+Platform Engineer, Vertex Systems (2020-Present)
+- Designed microservices architecture in Flask deployed on Kubernetes
+- Managed AWS and GCP infrastructure, introduced Redis caching layer, cut API latency 40%
+- Built REST APIs consumed by mobile and web clients
+
+Software Engineer, Nimbus Data (2018-2020)
+- Python backend development, SQL query optimization on PostgreSQL
+
+Education
+Master of Science (M.Sc) in Computer Science, University of Toronto, 2018

@@ -1,0 +1,17 @@
+Maria Garcia
+Full Stack Developer
+
+Summary
+3 years of experience across Node.js and Python backend services.
+
+Skills
+Python, Node.js, JavaScript, SQL, PostgreSQL, REST API, AWS, Docker, Git
+
+Experience
+Full Stack Developer, Bramble Tech (2021-Present)
+- Built backend services in both Python and Node.js
+- Deployed REST APIs to AWS using Docker containers
+- Worked with PostgreSQL for relational data storage
+
+Education
+Bachelor of Technology (B.Tech) in Information Technology, Pune University, 2021

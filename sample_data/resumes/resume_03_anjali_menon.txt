@@ -1,0 +1,17 @@
+Anjali Menon
+Junior Python Developer
+
+Summary
+2 years of experience writing Python scripts and internal tools.
+
+Skills
+Python, SQL, Git, basic HTML/CSS, Linux, Bash
+
+Experience
+Python Developer, DataForge Analytics (2022-Present)
+- Wrote Python scripts for internal data cleaning and reporting tools
+- Wrote SQL queries against a MySQL database
+- Some exposure to Linux server administration
+
+Education
+Bachelor of Science (B.Sc) in Information Technology, Mumbai University, 2022

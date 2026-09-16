@@ -1,0 +1,21 @@
+Wei Lin
+Staff Backend Engineer
+
+Summary
+7 years of experience in Python backend and cloud infrastructure.
+
+Skills
+Python, Django, Flask, PostgreSQL, Docker, Kubernetes, AWS, Redis, REST API,
+GraphQL, microservices, CI/CD, Agile
+
+Experience
+Staff Backend Engineer, Quanta Cloud (2019-Present)
+- Led design of microservices platform in Django and Flask on Kubernetes/AWS
+- Introduced Redis caching and GraphQL gateway, improved p99 latency by 55%
+- Owned CI/CD pipeline using GitHub Actions and Terraform
+
+Backend Engineer, Orbital Systems (2017-2019)
+- Built REST APIs in Python backed by PostgreSQL
+
+Education
+PhD in Computer Science, National University of Singapore, 2017

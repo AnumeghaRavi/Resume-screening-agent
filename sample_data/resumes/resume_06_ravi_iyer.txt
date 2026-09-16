@@ -1,0 +1,16 @@
+Ravi Iyer
+Data Analyst
+
+Summary
+1 year of experience in data analysis and reporting.
+
+Skills
+Python, Pandas, NumPy, SQL, Excel, data analysis, Jira
+
+Experience
+Data Analyst, Insight Metrics (2023-Present)
+- Wrote Python/Pandas scripts for data cleaning and analysis
+- Queried PostgreSQL databases for ad-hoc reporting
+
+Education
+Bachelor of Science (B.Sc) in Statistics, Delhi University, 2023

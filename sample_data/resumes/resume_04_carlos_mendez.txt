@@ -1,0 +1,17 @@
+Carlos Mendez
+Software Engineer
+
+Summary
+4 years of experience, primarily Java backend, some Python exposure.
+
+Skills
+Java, Python, SQL, PostgreSQL, REST API, Agile, Scrum
+
+Experience
+Software Engineer, Northbridge Retail (2020-Present)
+- Built REST APIs in Java Spring Boot backed by PostgreSQL
+- Contributed Python scripts for internal data migration tasks
+- Worked in Scrum teams with two-week sprints
+
+Education
+Bachelor of Engineering (B.E.) in Computer Science, University of Sao Paulo, 2020

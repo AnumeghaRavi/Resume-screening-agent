@@ -1,0 +1,16 @@
+Emily Zhang
+Frontend Engineer
+
+Summary
+3 years of experience building user interfaces with React and TypeScript.
+
+Skills
+JavaScript, TypeScript, React, Next.js, HTML, CSS, REST API, Git
+
+Experience
+Frontend Engineer, ShopWave (2021-Present)
+- Built responsive UIs in React and Next.js consuming REST APIs
+- Collaborated with backend team on API contract design
+
+Education
+Bachelor of Science (B.Sc) in Computer Science, Arizona State University, 2021

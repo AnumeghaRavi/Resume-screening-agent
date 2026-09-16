@@ -1,0 +1,21 @@
+Priya Sharma
+Backend Software Engineer
+
+Summary
+Backend engineer with 5 years of experience building Python web services.
+
+Skills
+Python, Django, PostgreSQL, REST API design, Docker, AWS, CI/CD, Git, Agile
+
+Experience
+Senior Backend Developer, FinServe Technologies (2021-Present)
+- Built and maintained REST APIs in Django serving 2M+ daily requests
+- Migrated deployment pipeline to Docker and AWS ECS with CI/CD via GitHub Actions
+- Owned PostgreSQL schema design for core billing services
+
+Backend Developer, CloudNet Solutions (2019-2021)
+- Developed microservices in Python/Flask, containerized with Docker
+- Worked in an Agile/Scrum team with two-week sprints
+
+Education
+Bachelor of Technology (B.Tech) in Computer Science, VIT Vellore, 2019
