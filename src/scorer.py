@@ -23,12 +23,13 @@ from .extractor import (
     extract_skills,
     extract_years_experience,
     extract_education_level,
+    
     build_skill_vocab_from_jd,
 )
 
 WEIGHTS = {
-    "similarity": 0.50,
-    "skills": 0.30,
+    "similarity": 0.45,
+    "skills": 0.35,
     "experience": 0.15,
     "education": 0.05,
 }

@@ -11,7 +11,7 @@ I chose TF-IDF + cosine similarity over embedding-based similarity
    black box for a scoring decision that affects a real candidate.
 2. **No external dependency at scoring time.** TF-IDF needs no model
    download and no API call, so the core ranking works completely offline
-   and free. The LLM is used only for the reasoning *text*, not the score
+   and free. The LLM is used only for the reasoning _text_, not the score
    itself — if that call fails or the key is missing, scoring is unaffected.
 3. **Time budget.** Given the 24-hour window, TF-IDF is a few lines with
    scikit-learn and is reliable immediately, versus tuning an embeddings
@@ -29,12 +29,15 @@ thing I'd change with more time.
 A single similarity number is easy to game (a resume that's just a wall of
 JD keywords would score artificially high) and hard to explain to a hiring
 manager. Splitting into similarity / skills / experience / education lets a
-reviewer see *which part* of the match is strong or weak, not just a final
-number. The weights (50/30/15/5) reflect a judgment that explicit skill
+reviewer see _which part_ of the match is strong or weak, not just a final
+number. The weights (45/35/15/5) reflect a judgment that explicit skill
 overlap and general topical fit matter most, and education matters least —
 this is a defensible starting point, not a tuned optimum. With real
 historical hiring data, these weights should be learned or at least
 validated against actual hire/no-hire outcomes rather than set by hand.
+Increased skill-overlap weight from 30% to 35% and reduced similarity from
+50% to 45% after observing that TF-IDF similarity alone over-rewarded resumes
+with generic overlapping phrasing rather than actual matching skills.
 
 ## Why grounded LLM reasoning, not LLM scoring
 
